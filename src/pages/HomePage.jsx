@@ -40,7 +40,7 @@ const HomePage = () => {
       icon: Target
     },
     {
-      title: 'Mess-Friendly Meals',
+      title: 'Budget-Friendly Meals',
       description: 'Diet plans that work with hostel food',
       icon: Zap
     },
